@@ -1,0 +1,12 @@
+Hello, Everyone.
+:সবাইকে অভিবাদন.
+
+My name is Ohidur Rahman Bappy.
+:আমার নাম Ohidur রহমান বাপ্পী হয়।
+
+I am programming in python.
+:আমি পাইথন প্রোগ্রামিং করছি।
+
+I love programming.
+:আমি প্রোগ্রামিং ভালোবাসি।
+
